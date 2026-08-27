@@ -1,36 +1,111 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Roshni Tarafdar — Data Science & AI Portfolio
 
-## Getting Started
+Welcome to my personal portfolio repository.
 
-First, run the development server:
+This portfolio showcases my work in **Data Science, Machine Learning, Data Engineering, NLP, and AI**, along with my technical skills, certifications, and projects.
+
+## 🌐 Portfolio
+
+**Live Portfolio:** Coming soon
+
+**GitHub:** https://github.com/Rosh0011
+
+## 👩‍💻 About Me
+
+I am a passionate technology student focused on **Data Science, Machine Learning, Artificial Intelligence, and Data Engineering**.
+
+I enjoy building practical, data-driven applications and transforming data into meaningful insights and intelligent solutions.
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+
+- Python
+- SQL
+- Java
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Machine Learning & AI
+
+- Machine Learning
+- XGBoost
+- Random Forest
+- NLP
+- Generative AI
+
+### Data Engineering
+
+- ETL
+- Data Warehousing
+- Data Modelling
+- SQL Analytics
+
+### Visualization & Applications
+
+- Streamlit
+- Plotly
+- Data Visualization
+
+### Development
+
+- Git
+- GitHub
+- Next.js
+- React
+- TypeScript
+
+## 🚀 Featured Projects
+
+### 1. AI-Powered Fraud Detection
+
+Real-time fraud detection using **Random Forest and XGBoost**, with feature engineering across 25+ transaction attributes.
+
+**Technologies:** Python, XGBoost, Random Forest, Scikit-learn
+
+### 2. Movie Data Warehouse & Analytics
+
+End-to-end ETL pipeline with data modelling, SQL and analytics to uncover insights across movies, genres and trends.
+
+**Technologies:** Python, SQL, ETL, Data Warehousing
+
+### 3. AI Stock Market Dashboard
+
+Interactive Streamlit dashboard for stock data ingestion, KPI visualization, technical indicators and next-day price prediction.
+
+**Technologies:** Python, ETL, Streamlit, Plotly
+
+### 4. AI Tourism Chatbot
+
+NLP-powered virtual travel assistant with intent recognition, entity extraction and a database-backed travel information system.
+
+**Technologies:** Python, NLP, SQL, Streamlit
+
+## 🏆 Certifications
+
+- SAP Certified — Data Analyst
+- OCI — Generative AI Professional
+- OCI — Data Science Professional
+- IBM — Enterprise Data Science Practices
+- Cisco — Introduction to Modern AI
+- Udemy — Chatbot: AI & NLP
+- IIT Bombay — Git Training Completion
+
+## 📚 Areas of Interest
+
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Generative AI
+- Natural Language Processing
+- Data Engineering
+- Data Analytics
+- Business Intelligence
+
+## ⚙️ Run Locally
+
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/Rosh0011/roshni-portfolio-2026.git
